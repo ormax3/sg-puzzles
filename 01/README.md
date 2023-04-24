@@ -31,6 +31,8 @@
 
   ![](solution-hexeditor.png)
 
+  Finally display the image file to reveal the code.
+
   Of course, you can also write a script to traverse the nested zips, see the codes attached.
 
 </details>
