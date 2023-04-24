@@ -27,10 +27,10 @@
 
       D:\Downloads\png.zip\89.zip\50.zip\4E.zip\47.zip\0D.zip\0A.zip\1A.zip\0A.zip\...\42.zip\60.zip\82.txt
 
-  format it to keep on the hex values to and paste it in HEX editor of choice:
+  format it to keep only the hex values and paste the result in a HEX editor of choice:
 
   ![](solution-hexeditor.png)
 
-  Of course, you can also write a script to traverse the nested zip, see the codes attached.
+  Of course, you can also write a script to traverse the nested zips, see the codes attached.
 
 </details>
