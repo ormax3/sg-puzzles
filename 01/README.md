@@ -2,6 +2,8 @@
 
 [Puzzle description](https://www.steamgifts.com/discussion/nLkTR/)
 
+Start by downloading the [ZIP](png.zip) file I prepared for you, and go down the rabbit hole ;)
+
 ## Solution
 
 <details>
